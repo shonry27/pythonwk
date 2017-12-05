@@ -1,0 +1,13 @@
+Exercise 3-3.
+def right_justify(s):
+    print ("%70s" % s)
+    done ..
+    
+def do_twice(f):
+    f()
+    f()
+    
+def print_shonry():
+    print("shonry")
+    
+do_twice(print_shonry)
